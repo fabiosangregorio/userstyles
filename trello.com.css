@@ -1,0 +1,10 @@
+@-moz-document domain("trello.com") {
+.window {
+    width: 90vw;
+    max-width: 1300px;
+}
+
+.window-main-col {
+    width: calc(100% - 216px);
+}
+}
