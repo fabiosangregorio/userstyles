@@ -1,0 +1,11 @@
+@-moz-document domain("ticktick.com") {
+@media (min-width: 1024px) {
+    .g-right {
+        width: 45%;
+    }
+
+    .g-center {
+        right: 45%;
+    }
+}
+}
