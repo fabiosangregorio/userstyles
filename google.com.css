@@ -1,0 +1,47 @@
+@-moz-document domain("google.com") {
+@media (max-width: 767px) {
+    #cnt #center_col,
+    .mw #center_col {
+        margin-left: 0;
+        max-width: 100vw;
+    }
+    body.vasq #hdtb-msb .hdtb-mitem.hdtb-msel {
+        margin-left: 0;
+    }
+    .logo {
+        display: none;
+    }
+    .A8SBwf {
+        width: auto;
+        margin-left: 15px;
+    }
+    div.sfbg, div.sfbgg, div#searchform {
+        min-width: 0;
+    }
+    .RNNXgb {
+        margin-left: 0;
+    }
+    .srp #searchform {
+        display: flex;
+    }
+    .gb_Ja {
+        padding: 0 10px;
+    }
+    .RNNXgb {
+        width: 100%;
+    }
+    form#tsf{ 
+        width: 100%;
+        padding-right: 15px;
+    }
+    body.vasq .ab_tnav_wrp {
+        margin-left: 0;
+    }
+    body {
+        overflow-x: hidden;
+    }
+    .highlighted-search-result::before {
+        left: -15px;
+    }
+}
+}
