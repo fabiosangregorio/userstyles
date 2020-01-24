@@ -1,0 +1,14 @@
+@-moz-document domain("stackoverflow.com") {
+@media (max-width: 1024px) {
+    #content {
+        padding-left: 10px;
+        padding-right: 0;
+        margin-left: 0;
+        margin-right: 0;
+        width: 95vw;
+    }
+    #left-sidebar {
+        display: none;
+    }
+}
+}
